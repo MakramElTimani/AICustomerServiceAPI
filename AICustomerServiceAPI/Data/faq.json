@@ -1,0 +1,131 @@
+{
+  "faq": [
+    {
+      "category": "Account Management",
+      "questions": [
+        {
+          "question": "Can I pause my subscription temporarily?",
+          "answer": "Yes, you can pause your subscription for a period of up to 3 months by accessing the 'Manage Subscription' section in your account. During this period, you will not receive any shipments, and your billing will also be paused."
+        },
+        {
+          "question": "How do I change the frequency of my deliveries?",
+          "answer": "You can change your delivery frequency by going to 'Subscription Settings' and selecting your preferred interval. Options include monthly, bi-monthly, and quarterly shipments."
+        },
+        {
+          "question": "What happens if I move to a different address during my subscription?",
+          "answer": "If you move, you can update your shipping address in your account settings. Be sure to update it at least 7 days before your next scheduled delivery to avoid shipping delays."
+        }
+      ]
+    },
+    {
+      "category": "Payments and Invoices",
+      "questions": [
+        {
+          "question": "Can I change my payment method after subscribing?",
+          "answer": "Yes, you can change your payment method at any time by navigating to the 'Billing' section of your account. Changes made will apply to your next billing cycle."
+        },
+        {
+          "question": "How do I access past invoices?",
+          "answer": "You can view and download your past invoices by logging into your account and selecting the 'Invoice History' section under 'Billing'."
+        },
+        {
+          "question": "What should I do if my payment fails?",
+          "answer": "If a payment fails, you'll receive a notification via email. Please update your payment details or retry the transaction manually through the 'Billing' section of your account."
+        },
+        {
+          "question": "Can I get a refund for a shipped box?",
+          "answer": "Refunds are not available once a box has been shipped. However, if you are unsatisfied with the product, please contact customer service for potential resolutions such as replacements or store credit."
+        }
+      ]
+    },
+    {
+      "category": "Orders and Shipping",
+      "questions": [
+        {
+          "question": "How can I track my order?",
+          "answer": "Once your order is shipped, you will receive a tracking number via email. You can also find this information in the 'Order History' section of your account."
+        },
+        {
+          "question": "What happens if I miss a delivery?",
+          "answer": "If a delivery attempt is unsuccessful, the courier will leave a notice with further instructions. In most cases, they will attempt to redeliver or provide details for collecting the package from a nearby location."
+        },
+        {
+          "question": "Can I customize the items in my box?",
+          "answer": "While our boxes are curated based on your preferences, we do not offer individual customization of items. However, you can update your style preferences and sizes in your account to ensure future boxes better suit your needs."
+        },
+        {
+          "question": "Do you ship internationally?",
+          "answer": "At the moment, we ship exclusively within the United States. We are actively working to expand our service to other countries, and you can sign up for updates on our website."
+        }
+      ]
+    },
+    {
+      "category": "Business and Service Questions",
+      "questions": [
+        {
+          "question": "How are the clothes in the box sourced?",
+          "answer": "All clothing items are sourced from vetted suppliers that focus on sustainability and recycling. We ensure that each item has gone through quality checks and is suitable for reuse."
+        },
+        {
+          "question": "What is your sustainability impact?",
+          "answer": "Our service promotes sustainability by recycling gently used clothes and reducing textile waste. For every box purchased, we donate to eco-friendly initiatives and provide transparency in our annual impact reports."
+        },
+        {
+          "question": "How can I partner with your business?",
+          "answer": "We are open to partnerships with sustainable fashion brands and organizations. If you're interested, please reach out to our business development team through the contact form on our website."
+        },
+        {
+          "question": "What do you do with clothes that don't make it into boxes?",
+          "answer": "Clothes that do not meet our quality standards are either donated to charitable organizations or repurposed through textile recycling programs. We strive to ensure no item goes to waste."
+        }
+      ]
+    },
+    {
+      "category": "Advanced Subscription Queries",
+      "questions": [
+        {
+          "question": "Can I upgrade or downgrade my subscription plan?",
+          "answer": "Yes, you can change your subscription tier at any time from your account settings. Upgrades or downgrades will take effect in the next billing cycle."
+        },
+        {
+          "question": "Is there a limit to how many boxes I can receive per month?",
+          "answer": "There is no strict limit on the number of boxes you can receive per month. You can subscribe to multiple plans or adjust your frequency to receive more frequent deliveries."
+        },
+        {
+          "question": "Do you offer corporate or bulk subscription plans?",
+          "answer": "Yes, we offer bulk subscription options for businesses looking to provide sustainable clothing for their employees or clients. Contact our sales team to learn more about custom plans."
+        },
+        {
+          "question": "How do I cancel my subscription?",
+          "answer": "You can cancel your subscription at any time through your account settings. Once canceled, you will not be charged for future billing cycles, and any pending orders will be fulfilled unless otherwise requested."
+        }
+      ]
+    },
+    {
+      "category": "Returns and Exchanges",
+      "questions": [
+        {
+          "question": "What is your return policy?",
+          "answer": "Due to the nature of recycled clothing, we do not offer returns. However, if an item is damaged or does not meet your expectations, please contact customer service for assistance with exchanges or refunds in the form of store credit."
+        },
+        {
+          "question": "Can I exchange an item if it doesn’t fit?",
+          "answer": "Yes, you can request an exchange for a different size within 14 days of receiving your box. Log in to your account and submit an exchange request through the 'Orders' section."
+        }
+      ]
+    },
+    {
+      "category": "Gift and Referral Program",
+      "questions": [
+        {
+          "question": "Can I gift a subscription?",
+          "answer": "Yes, we offer gift subscriptions that can be purchased for a set number of months. The recipient will receive an email with instructions on how to activate their subscription."
+        },
+        {
+          "question": "How does the referral program work?",
+          "answer": "For every friend you refer who subscribes, both you and your friend will receive a discount on your next box. Referral bonuses are automatically applied to your account."
+        }
+      ]
+    }
+  ]
+}

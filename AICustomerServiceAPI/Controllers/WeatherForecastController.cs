@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AICustomerServiceAPI.Controllers
 {
+
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
@@ -15,6 +16,7 @@ namespace AICustomerServiceAPI.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+
             _logger = logger;
         }
 
